@@ -1,0 +1,6 @@
+# Robots.txt file by Iain White
+
+User-agent: *
+Allow: /
+
+Sitemap: https://seekingrevelation.com/sitemap.xml
