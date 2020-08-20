@@ -1,1 +1,1 @@
-# Seeking-Revelation
+# Seeking Revelation
